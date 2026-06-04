@@ -1,7 +1,6 @@
 Hey there!
 
-AS1088  
-FASTBRIDGE-FIBER-RDNG-PA-01 – FastBridge Fiber  
+AS1088 | FASTBRIDGE-FIBER-RDNG-PA-01 – FastBridge Fiber  
 Assigned by ARIN | Block: 1-1876  
 https://search.arin.net/rdap/?query=1088  
 
