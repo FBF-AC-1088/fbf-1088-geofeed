@@ -7,11 +7,11 @@ https://search.arin.net/rdap/?query=1088
 GeoFeed: geofeed.fbfiber.io/geofeed.csv  
 
 IPv4 prefixes (5)  
-147.185.187.0/24 
-167.94.99.0/24 
-154.13.164.0/22 
-38.102.12.0/23 
-38.34.128.0/19 
+147.185.187.0/24  
+167.94.99.0/24  
+154.13.164.0/22  
+38.102.12.0/23  
+38.34.128.0/19  
 
 IPv6 prefixes (1)  
 2606:ea40::/32 (Direct Allocation)
